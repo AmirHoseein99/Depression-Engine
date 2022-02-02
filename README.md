@@ -30,7 +30,7 @@ we used tf.Keras for defining model and google colab for Training, and we achive
 
 | _ | Train_set | Validation_set | Test_set |
 | ------------- | ------------- | ------------- |------------- |
-|AUC : | 0.9457  | 0.9432  |0.9290  |
+|AUC  | 0.9457  | 0.9432  |0.9290  |
 
 
 
