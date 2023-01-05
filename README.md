@@ -24,7 +24,7 @@ we exctracted MFFCs and their deltas from interviews, and use them as input for 
 model is a hybrid model using both CNN and GRUs
 BatchNormalization after CNNs for training speedup
 using Dropout after each layer of GRUs 
-and the befor the output layer we used a GlobalAveragePooling Layer
+and the before the output layer we used a GlobalAveragePooling Layer
 
 we used tf.Keras for defining model and google colab for Training, and we achived the result in blew table
 
